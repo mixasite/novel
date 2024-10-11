@@ -1,6 +1,6 @@
 {
-  "name": "novel",
-  "private": true,
+  "name": "mixa-novel",
+  "version": "0.6.0",
   "scripts": {
     "changeset": "changeset",
     "publish:packages": "changeset publish",
